@@ -1,0 +1,11 @@
+HFT_system/
+|-- main.cpp
+|-- tcp_server.cpp
+|-- tick_loader.cpp
+|-- order_execution.cpp
+|-- order_book.cpp
+|-- make_server
+|-- hft_client.cpp
+|-- make_client
+|-- README.md
+|-- tick_data.csv
