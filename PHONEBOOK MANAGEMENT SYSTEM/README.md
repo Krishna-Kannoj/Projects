@@ -59,18 +59,18 @@ Clone the repository to your local machine:
 	|-- README.md       # Project documentation
 
   1. App.cpp: Implementation of the main application class.
-    - Responsible for handling user input and interacting with the tree class.
-    - Contains the run function, which orchestrates the main functionality of the program.
+   - Responsible for handling user input and interacting with the tree class.
+   - Contains the run function, which orchestrates the main functionality of the program.
   2. contactNode.cpp: Implementation of the contactNode class.
-    - Defines the structure and behavior of a node in the binary search tree.
-    - Manages contact information, such as first name, last name, phone number, and email.
-    - Implements functions like minValueNode for finding the node with the minimum value.
+   - Defines the structure and behavior of a node in the binary search tree.
+   - Manages contact information, such as first name, last name, phone number, and email.
+   - Implements functions like minValueNode for finding the node with the minimum value.
   3. main.cpp: Main entry point of the program.
-    - Contains the main function where the program execution begins.
-    - Calls the App::run function to initiate the phone book management system.
+   - Contains the main function where the program execution begins.
+   - Calls the App::run function to initiate the phone book management system.
   4. tree.cpp: Implementation of the tree class.
-    - Defines a binary search tree to store and manage contact nodes.
-    - Includes functions for creating nodes, inserting nodes, deleting nodes, searching for nodes, and editing nodes.
+   - Defines a binary search tree to store and manage contact nodes.
+   - Includes functions for creating nodes, inserting nodes, deleting nodes, searching for nodes, and editing nodes.
   5. App.h: Declaration of the main application class.
    - Declares the App class with its member functions and variables.
   6. contactNode.h: Declaration of the contactNode class.
