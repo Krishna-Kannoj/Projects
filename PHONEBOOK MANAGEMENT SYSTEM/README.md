@@ -24,15 +24,18 @@ This project implements a Phone Book Management System using C++. It allows user
 ## Usage
 1. Compilation:
  - Compile the project using the provided Makefile.
-	make
+	
+ 	make
 
 2. Running the Program:
  - Execute the compiled program.
-	./PHONEBOOK_MANAGEMENT_SYSTEM
+	
+ 	./PHONEBOOK_MANAGEMENT_SYSTEM
 
 3. Cleaning Up
  - To clean up the generated files, run:
-	make clean
+	
+ 	make clean
 
 ## Installation
 Clone the repository to your local machine:
